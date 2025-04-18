@@ -6,3 +6,9 @@
 - [ ] Implement generator training
 - [ ] Clean code
 - [ ] Write
+
+## Environment Setup 
+
+## Dataset & Models
+
+## Ack
