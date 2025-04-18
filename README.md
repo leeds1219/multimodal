@@ -1,6 +1,6 @@
 # :fire:TODO
 - [ ] Setup static environment
-- [ ] Implement LLM score
+- [x] Implement LLM score
 - [ ] Implement online retrieval
 - [ ] Implement retriever training
 - [ ] Implement generator training
