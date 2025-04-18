@@ -36,6 +36,8 @@ pip install transformers==4.45.1
 cd ..
 
 cd ..
+
+pip install accelerate==0.26.0 # double check
 ```
 
 ## Dataset & Models
