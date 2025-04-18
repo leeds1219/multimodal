@@ -8,12 +8,12 @@
 - [ ] Write
 
 ## Environment Setup 
-'''
+```
 ./Miniconda3-latest-Linux-x86_64.sh
-'''
+```
 
 ### Issue with sm90 H100
-'''
+```
 conda create -n FLMR python=3.10 -y
 conda activate FLMR
 
@@ -36,7 +36,7 @@ pip install transformers==4.45.1
 cd ..
 
 cd ..
-'''
+```
 
 ## Dataset & Models
 
